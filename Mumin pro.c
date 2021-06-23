@@ -3,7 +3,6 @@
 #include <omp.h>
 #include <windows.h>
 
-
 //This block of codes was made by M. Raihan Azhari//
 //------------------------------------------------
 struct amalan{
