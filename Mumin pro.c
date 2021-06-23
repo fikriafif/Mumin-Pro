@@ -18,6 +18,7 @@ struct amalan{
 };
 
 
+
 typedef struct User{
 	
 	//variabel data user pengguna aplikasi (hanya 1 user)
